@@ -43,4 +43,4 @@ IMDb dataset for training the sentiment analysis model.
 NLTK, Scikit-learn, and Flask for building the project.
 
 *Author
-Project by Sai Charan Reddy.
+Project by Sai Charan Reddy and Jupally Meghana
